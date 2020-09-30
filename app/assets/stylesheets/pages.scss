@@ -1,3 +1,42 @@
 // Place all the styles related to the pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+
+h1 {
+  color: blue;
+  background-color: red;
+}
+
+// p {
+//   color: pink;
+//   font-size: 24px;
+// }
+
+.first {
+  border: 40px;
+  margin: 20px;
+  color: orange;
+}
+
+.second {
+  color: red;
+}
+
+#unique {
+  font: Arial;
+  font-size: 40px;
+}
+
+.social {
+  color: orange;
+}
+
+// div > p > span {
+//   font: Helvetica;
+//   color: yellow;
+//   font-size: 50px;
+// }
+
+.tooltip {
+  color: brown;
+}
